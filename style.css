@@ -254,6 +254,10 @@ main ul button{
     margin-left: 100px;
 }
 
+main ul button:hover{
+    background-color: #6c0235;
+}
+
 main img{
     position: absolute;
 }
@@ -305,7 +309,7 @@ main ul:nth-child(2) span{
     width: 28%;
     height: 230px;
     position: relative;
-    background: url(star-wars-storm-trooper-supreme-shirts-supreme-t-shirt-snoopy-clothing-apparel-t-shirt-text-transparent-png-616696\ 1.png);
+    background: url(imagens/star-wars-storm-trooper-supreme-shirts-supreme-t-shirt-snoopy-clothing-apparel-t-shirt-text-transparent-png-616696\ 1.png);
     background-repeat: no-repeat;
     background-position: right;
     background-color: #D8E3F2;
@@ -363,7 +367,7 @@ main ul:nth-child(2) span{
     width: 28.5%;
     height: 230px;
     position: relative;
-    background: url(ddd\ 1.png);
+    background: url(imagens/ddd\ 1.png);
     background-repeat: no-repeat;
     background-position: right;
     background-color: #D8E3F2;
@@ -413,7 +417,7 @@ main ul:nth-child(2) span{
     width: 28.5%;
     height: 230px;
     position: relative;
-    background: url(d9db11953a2d185d37246bb1f500c957\ 1.png);
+    background: url(imagens/d9db11953a2d185d37246bb1f500c957\ 1.png);
     background-repeat: no-repeat;
     background-position: right;
     background-color: #D8E3F2;
@@ -963,6 +967,10 @@ main ul:nth-child(2) span{
     background: #C92071;
     margin-top: 20px;
     border-radius: 8px;
+}
+
+.oferta ul li:nth-child(2) button:hover{
+    background-color: #6c0235;
 }
 
 footer {
