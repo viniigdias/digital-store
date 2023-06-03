@@ -178,6 +178,11 @@ header{
     text-decoration: underline;
     text-underline-offset: 5px;
     font-weight: 700;
+    transition-duration: 300ms;
+}
+
+.header-sec nav a:hover{
+    border-bottom: 2px solid #C92071;
 }
 
 
@@ -363,6 +368,11 @@ main ul:nth-child(2) span{
     margin-bottom: 35px;
 }
 
+.colecoes-first button:hover{
+    background-color: #6c0235;
+    color: #E5E5E5;
+}
+
 .colecoes-sec{
     width: 28.5%;
     height: 230px;
@@ -412,6 +422,13 @@ main ul:nth-child(2) span{
     margin-left: 30px;
     margin-bottom: 35px;
 }
+
+
+.colecoes-sec button:hover{
+    background-color: #6c0235;
+    color: #E5E5E5;
+}
+
 
 .colecoes-third{
     width: 28.5%;
@@ -463,6 +480,13 @@ main ul:nth-child(2) span{
     margin-left: 30px;
     margin-bottom: 35px;
 }
+
+
+.colecoes-third button:hover{
+    background-color: #6c0235;
+    color: #E5E5E5;
+}
+
 
 .colecoes-destaque{
     width: 99vw;
